@@ -34,7 +34,7 @@ For this task I used Comic Style Manga Images, which was collected from the inte
 ## Results
 
 <img src='Output Images/1.png' width=1000 />
-
+<div style='border: 6px solid green;' />
 <img src='Output Images/2.png' width=1000 />
 
 <img src='Output Images/3.png' width=1000 />
