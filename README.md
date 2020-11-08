@@ -1,10 +1,13 @@
-# Image-Colourization-Using-Pix2Pix-GAN <br>
+# Image-Colourization-Using-Pix2Pix-GAN
+
 
 ## Task
 The task was to color Black and White Manga images using Deep Learning. So for this task I used Pix2Pix Unet Genrative Adverserial Networks (GAN) which has shown great results in the field of Image Colourization and Image Segmentation.
 
+
 ## Dataset
 For this task I used Comic Style Manga Images, which was collected from the internet using python and web scapping. Since these images have copyright so I have not provided link to these images in this repository. The dataset consisted of 76,000 Coloured Manga Images.
+
 
 ## Procedure
 * The first part is importing the libraries. For this task I used Keras Deep Learning Library because of its easy interface.
@@ -27,10 +30,14 @@ For this task I used Comic Style Manga Images, which was collected from the inte
 
 * Then we trained of our model on Nividia GPU for 4,00,000 iterations with a batch size of 1. (This training approxiamately took me 7 days on my Laptop's GPU)
 
+
 ## Results
 
 <img src='Output Images/1.png' width=1000 />
+
 <img src='Output Images/2.png' width=1000 />
+
 <img src='Output Images/3.png' width=1000 />
+
 <img src='Output Images/4.png' width=1000 />
 
