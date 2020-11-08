@@ -19,6 +19,7 @@ For this task I used Comic Style Manga Images, which was collected from the inte
 
 * Then we define our Discriminator model with an input size of 512x512 and an output (patch size) of 16x16.
       The structure of out Discriminator is as below:
+      <img src='discriminator_model_plot.png' width=500 />
       
 * Then we define our Generator model which is a U-Net model, which has an input size of 512x512x1 and an output size of 512x512x3.
       The Structure of out Generator model is a show below:
