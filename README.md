@@ -32,7 +32,7 @@ For this task I used Comic Style Manga Images, which was collected from the inte
       
 <img src='gan_model_plot.png' width=500 />
       
-* Now I defined some custom fuction of loading the images as input and output as well as to summarize our results and also a custom training function to train our model.
+* Now I defined some custom fuction of loading the images as input and output as well as to summarize our results and also a custom training function to train our model. For the model instead of taking the grayscale as input and RGB image as output, I converted the RGB image to LAB image and then used the "L" part as input and "AB" part as the ouput of out model.
 
 * Then we trained of our model on Nividia GPU for 4,00,000 iterations with a batch size of 1. (This training approxiamately took me 7 days on my Laptop's GPU)
 
