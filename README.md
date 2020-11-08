@@ -29,5 +29,5 @@ For this task I used Comic Style Manga Images, which was collected from the inte
 
 ## Results
 
-
+<img src='Output Images/1.png' width=1000 />
       
