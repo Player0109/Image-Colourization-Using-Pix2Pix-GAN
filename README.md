@@ -1,4 +1,4 @@
-# Image-Colourization-Using-Pix2Pix-GAN \  
+# Image-Colourization-Using-Pix2Pix-GAN\
 
 ## Task
 The task was to color Black and White Manga images using Deep Learning. So for this task I used Pix2Pix Unet Genrative Adverserial Networks (GAN) which has shown great results in the field of Image Colourization and Image Segmentation.
